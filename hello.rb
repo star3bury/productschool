@@ -1,7 +1,7 @@
 puts "Hello world!"
 
 gift = [
-          "next year's xmas tree",
+          "a tesla",
           "a golf pencil",
           "a slice of stale wedding cake",
           "a medium-sized island off the coast of Sumatra",
